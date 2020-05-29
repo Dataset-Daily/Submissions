@@ -2,6 +2,8 @@
 
 [Dataset Daily](https://www.datasetdaily.com) is a community of data junkies. Dataset Daily sends a dataset on Monday with analysis throughout the week. This repository is meant to house the community submissions.
 
+You can push your submission as a Pull Request. All functioning code will be accepted into the repo as your independent contribution. 
+
 ## Getting Started
 
 Using a python3 environment, run the following to install libraries:
