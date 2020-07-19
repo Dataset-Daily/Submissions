@@ -1,5 +1,7 @@
 # Student performance analysis
 
+This is a submission by [Nabanita Rimpi](https://github.com/nabanitarimpi)
+
 The main aim of this project is to perform exploratory data analysis of an educational dataset using python and also build a model that will be able to predict students performances based on some features.
 
 ## Requirements
